@@ -84,3 +84,5 @@ exclude:
   - Rakefile
   - README.md
   - vendor
+
+theme: jekyll-theme-minimal
